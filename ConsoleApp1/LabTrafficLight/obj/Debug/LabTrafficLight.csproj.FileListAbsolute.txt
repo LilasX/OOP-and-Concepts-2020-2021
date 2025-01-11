@@ -1,0 +1,11 @@
+C:\Users\nix13\source\repos\ConsoleApp1\LabTrafficLight\bin\Debug\LabTrafficLight.exe.config
+C:\Users\nix13\source\repos\ConsoleApp1\LabTrafficLight\bin\Debug\LabTrafficLight.exe
+C:\Users\nix13\source\repos\ConsoleApp1\LabTrafficLight\bin\Debug\LabTrafficLight.pdb
+C:\Users\nix13\source\repos\ConsoleApp1\LabTrafficLight\obj\Debug\LabTrafficLight.csprojAssemblyReference.cache
+C:\Users\nix13\source\repos\ConsoleApp1\LabTrafficLight\obj\Debug\LabTrafficLight.Properties.Resources.resources
+C:\Users\nix13\source\repos\ConsoleApp1\LabTrafficLight\obj\Debug\LabTrafficLight.csproj.GenerateResource.cache
+C:\Users\nix13\source\repos\ConsoleApp1\LabTrafficLight\obj\Debug\LabTrafficLight.csproj.CoreCompileInputs.cache
+C:\Users\nix13\source\repos\ConsoleApp1\LabTrafficLight\obj\Debug\LabTrafficLight.exe
+C:\Users\nix13\source\repos\ConsoleApp1\LabTrafficLight\obj\Debug\LabTrafficLight.pdb
+C:\Users\nix13\source\repos\ConsoleApp1\LabTrafficLight\obj\Debug\LabTrafficLight.Main_Form.resources
+C:\Users\nix13\source\repos\ConsoleApp1\LabTrafficLight\obj\Debug\LabTrafficLight.Traffic_Light.resources

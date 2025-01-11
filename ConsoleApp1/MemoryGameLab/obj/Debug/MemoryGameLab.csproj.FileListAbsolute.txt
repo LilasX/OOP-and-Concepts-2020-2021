@@ -1,0 +1,10 @@
+C:\Users\nix13\source\repos\ConsoleApp1\MemoryGameLab\bin\Debug\MemoryGameLab.exe.config
+C:\Users\nix13\source\repos\ConsoleApp1\MemoryGameLab\bin\Debug\MemoryGameLab.exe
+C:\Users\nix13\source\repos\ConsoleApp1\MemoryGameLab\bin\Debug\MemoryGameLab.pdb
+C:\Users\nix13\source\repos\ConsoleApp1\MemoryGameLab\obj\Debug\MemoryGameLab.csprojAssemblyReference.cache
+C:\Users\nix13\source\repos\ConsoleApp1\MemoryGameLab\obj\Debug\MemoryGameLab.Form1.resources
+C:\Users\nix13\source\repos\ConsoleApp1\MemoryGameLab\obj\Debug\MemoryGameLab.Properties.Resources.resources
+C:\Users\nix13\source\repos\ConsoleApp1\MemoryGameLab\obj\Debug\MemoryGameLab.csproj.GenerateResource.cache
+C:\Users\nix13\source\repos\ConsoleApp1\MemoryGameLab\obj\Debug\MemoryGameLab.csproj.CoreCompileInputs.cache
+C:\Users\nix13\source\repos\ConsoleApp1\MemoryGameLab\obj\Debug\MemoryGameLab.exe
+C:\Users\nix13\source\repos\ConsoleApp1\MemoryGameLab\obj\Debug\MemoryGameLab.pdb

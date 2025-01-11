@@ -1,0 +1,7 @@
+C:\Users\nix13\source\repos\ConsoleApp1\Zombie_Battle\bin\Debug\Zombie_Battle.exe.config
+C:\Users\nix13\source\repos\ConsoleApp1\Zombie_Battle\bin\Debug\Zombie_Battle.exe
+C:\Users\nix13\source\repos\ConsoleApp1\Zombie_Battle\bin\Debug\Zombie_Battle.pdb
+C:\Users\nix13\source\repos\ConsoleApp1\Zombie_Battle\obj\Debug\Zombie_Battle.csprojAssemblyReference.cache
+C:\Users\nix13\source\repos\ConsoleApp1\Zombie_Battle\obj\Debug\Zombie_Battle.csproj.CoreCompileInputs.cache
+C:\Users\nix13\source\repos\ConsoleApp1\Zombie_Battle\obj\Debug\Zombie_Battle.exe
+C:\Users\nix13\source\repos\ConsoleApp1\Zombie_Battle\obj\Debug\Zombie_Battle.pdb

@@ -1,0 +1,14 @@
+C:\Users\nix13\source\repos\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\nix13\source\repos\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\nix13\source\repos\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\nix13\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\nix13\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\nix13\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\nix13\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\Lab1.csprojAssemblyReference.cache
+E:\School Stuff - LaSalle\Programming Codes\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+E:\School Stuff - LaSalle\Programming Codes\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+E:\School Stuff - LaSalle\Programming Codes\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+E:\School Stuff - LaSalle\Programming Codes\ConsoleApp1\ConsoleApp2\obj\Debug\Lab1.csproj.AssemblyReference.cache
+E:\School Stuff - LaSalle\Programming Codes\ConsoleApp1\ConsoleApp2\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+E:\School Stuff - LaSalle\Programming Codes\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+E:\School Stuff - LaSalle\Programming Codes\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

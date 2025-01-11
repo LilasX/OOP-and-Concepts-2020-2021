@@ -1,0 +1,7 @@
+C:\Users\nix13\source\repos\ConsoleApp1\AnimalZoo\bin\Debug\AnimalZoo.exe.config
+C:\Users\nix13\source\repos\ConsoleApp1\AnimalZoo\bin\Debug\AnimalZoo.exe
+C:\Users\nix13\source\repos\ConsoleApp1\AnimalZoo\bin\Debug\AnimalZoo.pdb
+C:\Users\nix13\source\repos\ConsoleApp1\AnimalZoo\obj\Debug\AnimalZoo.csprojAssemblyReference.cache
+C:\Users\nix13\source\repos\ConsoleApp1\AnimalZoo\obj\Debug\AnimalZoo.csproj.CoreCompileInputs.cache
+C:\Users\nix13\source\repos\ConsoleApp1\AnimalZoo\obj\Debug\AnimalZoo.exe
+C:\Users\nix13\source\repos\ConsoleApp1\AnimalZoo\obj\Debug\AnimalZoo.pdb

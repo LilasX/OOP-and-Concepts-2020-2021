@@ -1,0 +1,7 @@
+C:\Users\nix13\source\repos\ConsoleApp1\ExamPart2\bin\Debug\ExamPart2.exe.config
+C:\Users\nix13\source\repos\ConsoleApp1\ExamPart2\bin\Debug\ExamPart2.exe
+C:\Users\nix13\source\repos\ConsoleApp1\ExamPart2\bin\Debug\ExamPart2.pdb
+C:\Users\nix13\source\repos\ConsoleApp1\ExamPart2\obj\Debug\ExamPart2.csprojAssemblyReference.cache
+C:\Users\nix13\source\repos\ConsoleApp1\ExamPart2\obj\Debug\ExamPart2.csproj.CoreCompileInputs.cache
+C:\Users\nix13\source\repos\ConsoleApp1\ExamPart2\obj\Debug\ExamPart2.exe
+C:\Users\nix13\source\repos\ConsoleApp1\ExamPart2\obj\Debug\ExamPart2.pdb

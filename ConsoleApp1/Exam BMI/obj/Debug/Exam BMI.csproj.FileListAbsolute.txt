@@ -1,0 +1,10 @@
+C:\Users\nix13\source\repos\ConsoleApp1\Exam BMI\bin\Debug\Exam BMI.exe.config
+C:\Users\nix13\source\repos\ConsoleApp1\Exam BMI\bin\Debug\Exam BMI.exe
+C:\Users\nix13\source\repos\ConsoleApp1\Exam BMI\bin\Debug\Exam BMI.pdb
+C:\Users\nix13\source\repos\ConsoleApp1\Exam BMI\obj\Debug\Exam BMI.csprojAssemblyReference.cache
+C:\Users\nix13\source\repos\ConsoleApp1\Exam BMI\obj\Debug\Exam_BMI.Form1.resources
+C:\Users\nix13\source\repos\ConsoleApp1\Exam BMI\obj\Debug\Exam_BMI.Properties.Resources.resources
+C:\Users\nix13\source\repos\ConsoleApp1\Exam BMI\obj\Debug\Exam BMI.csproj.GenerateResource.cache
+C:\Users\nix13\source\repos\ConsoleApp1\Exam BMI\obj\Debug\Exam BMI.csproj.CoreCompileInputs.cache
+C:\Users\nix13\source\repos\ConsoleApp1\Exam BMI\obj\Debug\Exam BMI.exe
+C:\Users\nix13\source\repos\ConsoleApp1\Exam BMI\obj\Debug\Exam BMI.pdb

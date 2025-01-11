@@ -1,0 +1,7 @@
+C:\Users\nix13\source\repos\ConsoleApp1\TestDaraSummer1\bin\Debug\TestDaraSummer1.exe.config
+C:\Users\nix13\source\repos\ConsoleApp1\TestDaraSummer1\bin\Debug\TestDaraSummer1.exe
+C:\Users\nix13\source\repos\ConsoleApp1\TestDaraSummer1\bin\Debug\TestDaraSummer1.pdb
+C:\Users\nix13\source\repos\ConsoleApp1\TestDaraSummer1\obj\Debug\TestDaraSummer1.csprojAssemblyReference.cache
+C:\Users\nix13\source\repos\ConsoleApp1\TestDaraSummer1\obj\Debug\TestDaraSummer1.csproj.CoreCompileInputs.cache
+C:\Users\nix13\source\repos\ConsoleApp1\TestDaraSummer1\obj\Debug\TestDaraSummer1.exe
+C:\Users\nix13\source\repos\ConsoleApp1\TestDaraSummer1\obj\Debug\TestDaraSummer1.pdb

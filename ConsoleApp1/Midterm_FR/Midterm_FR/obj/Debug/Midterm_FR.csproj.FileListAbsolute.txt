@@ -1,0 +1,14 @@
+C:\Users\15148\source\repos\Midterm_FR\Midterm_FR\bin\Debug\Midterm_FR.exe.config
+C:\Users\15148\source\repos\Midterm_FR\Midterm_FR\bin\Debug\Midterm_FR.exe
+C:\Users\15148\source\repos\Midterm_FR\Midterm_FR\bin\Debug\Midterm_FR.pdb
+C:\Users\15148\source\repos\Midterm_FR\Midterm_FR\obj\Debug\Midterm_FR.csprojAssemblyReference.cache
+C:\Users\15148\source\repos\Midterm_FR\Midterm_FR\obj\Debug\Midterm_FR.csproj.CoreCompileInputs.cache
+C:\Users\15148\source\repos\Midterm_FR\Midterm_FR\obj\Debug\Midterm_FR.exe
+C:\Users\15148\source\repos\Midterm_FR\Midterm_FR\obj\Debug\Midterm_FR.pdb
+C:\Users\nix13\source\repos\ConsoleApp1\Midterm_FR\Midterm_FR\bin\Debug\Midterm_FR.exe.config
+C:\Users\nix13\source\repos\ConsoleApp1\Midterm_FR\Midterm_FR\bin\Debug\Midterm_FR.exe
+C:\Users\nix13\source\repos\ConsoleApp1\Midterm_FR\Midterm_FR\bin\Debug\Midterm_FR.pdb
+C:\Users\nix13\source\repos\ConsoleApp1\Midterm_FR\Midterm_FR\obj\Debug\Midterm_FR.csprojAssemblyReference.cache
+C:\Users\nix13\source\repos\ConsoleApp1\Midterm_FR\Midterm_FR\obj\Debug\Midterm_FR.csproj.CoreCompileInputs.cache
+C:\Users\nix13\source\repos\ConsoleApp1\Midterm_FR\Midterm_FR\obj\Debug\Midterm_FR.exe
+C:\Users\nix13\source\repos\ConsoleApp1\Midterm_FR\Midterm_FR\obj\Debug\Midterm_FR.pdb

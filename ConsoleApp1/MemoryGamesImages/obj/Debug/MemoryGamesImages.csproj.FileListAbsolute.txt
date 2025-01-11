@@ -1,0 +1,10 @@
+C:\Users\nix13\source\repos\ConsoleApp1\MemoryGamesImages\bin\Debug\MemoryGamesImages.exe.config
+C:\Users\nix13\source\repos\ConsoleApp1\MemoryGamesImages\bin\Debug\MemoryGamesImages.exe
+C:\Users\nix13\source\repos\ConsoleApp1\MemoryGamesImages\bin\Debug\MemoryGamesImages.pdb
+C:\Users\nix13\source\repos\ConsoleApp1\MemoryGamesImages\obj\Debug\MemoryGamesImages.csprojAssemblyReference.cache
+C:\Users\nix13\source\repos\ConsoleApp1\MemoryGamesImages\obj\Debug\MemoryGamesImages.Form1.resources
+C:\Users\nix13\source\repos\ConsoleApp1\MemoryGamesImages\obj\Debug\MemoryGamesImages.Properties.Resources.resources
+C:\Users\nix13\source\repos\ConsoleApp1\MemoryGamesImages\obj\Debug\MemoryGamesImages.csproj.GenerateResource.cache
+C:\Users\nix13\source\repos\ConsoleApp1\MemoryGamesImages\obj\Debug\MemoryGamesImages.csproj.CoreCompileInputs.cache
+C:\Users\nix13\source\repos\ConsoleApp1\MemoryGamesImages\obj\Debug\MemoryGamesImages.exe
+C:\Users\nix13\source\repos\ConsoleApp1\MemoryGamesImages\obj\Debug\MemoryGamesImages.pdb

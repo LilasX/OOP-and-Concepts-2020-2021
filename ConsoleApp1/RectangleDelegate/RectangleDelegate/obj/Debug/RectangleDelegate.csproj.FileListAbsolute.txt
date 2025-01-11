@@ -1,0 +1,14 @@
+C:\Users\English\source\repos\RectangleDelegate\RectangleDelegate\bin\Debug\RectangleDelegate.exe.config
+C:\Users\English\source\repos\RectangleDelegate\RectangleDelegate\bin\Debug\RectangleDelegate.exe
+C:\Users\English\source\repos\RectangleDelegate\RectangleDelegate\bin\Debug\RectangleDelegate.pdb
+C:\Users\English\source\repos\RectangleDelegate\RectangleDelegate\obj\Debug\RectangleDelegate.csprojResolveAssemblyReference.cache
+C:\Users\English\source\repos\RectangleDelegate\RectangleDelegate\obj\Debug\RectangleDelegate.csproj.CoreCompileInputs.cache
+C:\Users\English\source\repos\RectangleDelegate\RectangleDelegate\obj\Debug\RectangleDelegate.exe
+C:\Users\English\source\repos\RectangleDelegate\RectangleDelegate\obj\Debug\RectangleDelegate.pdb
+C:\Users\nix13\source\repos\ConsoleApp1\RectangleDelegate\RectangleDelegate\bin\Debug\RectangleDelegate.exe.config
+C:\Users\nix13\source\repos\ConsoleApp1\RectangleDelegate\RectangleDelegate\bin\Debug\RectangleDelegate.exe
+C:\Users\nix13\source\repos\ConsoleApp1\RectangleDelegate\RectangleDelegate\bin\Debug\RectangleDelegate.pdb
+C:\Users\nix13\source\repos\ConsoleApp1\RectangleDelegate\RectangleDelegate\obj\Debug\RectangleDelegate.csprojAssemblyReference.cache
+C:\Users\nix13\source\repos\ConsoleApp1\RectangleDelegate\RectangleDelegate\obj\Debug\RectangleDelegate.csproj.CoreCompileInputs.cache
+C:\Users\nix13\source\repos\ConsoleApp1\RectangleDelegate\RectangleDelegate\obj\Debug\RectangleDelegate.exe
+C:\Users\nix13\source\repos\ConsoleApp1\RectangleDelegate\RectangleDelegate\obj\Debug\RectangleDelegate.pdb

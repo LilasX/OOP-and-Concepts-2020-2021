@@ -1,0 +1,7 @@
+C:\Users\nix13\source\repos\ConsoleApp1\2020-06-23\bin\Debug\2020-06-23.exe.config
+C:\Users\nix13\source\repos\ConsoleApp1\2020-06-23\bin\Debug\2020-06-23.exe
+C:\Users\nix13\source\repos\ConsoleApp1\2020-06-23\bin\Debug\2020-06-23.pdb
+C:\Users\nix13\source\repos\ConsoleApp1\2020-06-23\obj\Debug\2020-06-23.csprojAssemblyReference.cache
+C:\Users\nix13\source\repos\ConsoleApp1\2020-06-23\obj\Debug\2020-06-23.csproj.CoreCompileInputs.cache
+C:\Users\nix13\source\repos\ConsoleApp1\2020-06-23\obj\Debug\2020-06-23.exe
+C:\Users\nix13\source\repos\ConsoleApp1\2020-06-23\obj\Debug\2020-06-23.pdb

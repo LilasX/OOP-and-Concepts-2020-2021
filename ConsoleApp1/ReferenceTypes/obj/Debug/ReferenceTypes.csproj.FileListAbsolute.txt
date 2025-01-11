@@ -1,0 +1,7 @@
+C:\Users\nix13\source\repos\ConsoleApp1\ReferenceTypes\bin\Debug\ReferenceTypes.exe.config
+C:\Users\nix13\source\repos\ConsoleApp1\ReferenceTypes\bin\Debug\ReferenceTypes.exe
+C:\Users\nix13\source\repos\ConsoleApp1\ReferenceTypes\bin\Debug\ReferenceTypes.pdb
+C:\Users\nix13\source\repos\ConsoleApp1\ReferenceTypes\obj\Debug\ReferenceTypes.csprojAssemblyReference.cache
+C:\Users\nix13\source\repos\ConsoleApp1\ReferenceTypes\obj\Debug\ReferenceTypes.csproj.CoreCompileInputs.cache
+C:\Users\nix13\source\repos\ConsoleApp1\ReferenceTypes\obj\Debug\ReferenceTypes.exe
+C:\Users\nix13\source\repos\ConsoleApp1\ReferenceTypes\obj\Debug\ReferenceTypes.pdb

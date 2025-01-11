@@ -1,0 +1,7 @@
+E:\School Stuff - LaSalle\Programming Codes\ConsoleApp1\RPG_Game\RPG_Game\bin\Debug\RPG_Game.exe.config
+E:\School Stuff - LaSalle\Programming Codes\ConsoleApp1\RPG_Game\RPG_Game\bin\Debug\RPG_Game.exe
+E:\School Stuff - LaSalle\Programming Codes\ConsoleApp1\RPG_Game\RPG_Game\bin\Debug\RPG_Game.pdb
+E:\School Stuff - LaSalle\Programming Codes\ConsoleApp1\RPG_Game\RPG_Game\obj\Debug\RPG_Game.csproj.AssemblyReference.cache
+E:\School Stuff - LaSalle\Programming Codes\ConsoleApp1\RPG_Game\RPG_Game\obj\Debug\RPG_Game.csproj.CoreCompileInputs.cache
+E:\School Stuff - LaSalle\Programming Codes\ConsoleApp1\RPG_Game\RPG_Game\obj\Debug\RPG_Game.exe
+E:\School Stuff - LaSalle\Programming Codes\ConsoleApp1\RPG_Game\RPG_Game\obj\Debug\RPG_Game.pdb

@@ -1,0 +1,7 @@
+C:\Users\nix13\source\repos\ConsoleApp1\Language_Fundamentals\bin\Debug\Language_Fundamentals.exe.config
+C:\Users\nix13\source\repos\ConsoleApp1\Language_Fundamentals\bin\Debug\Language_Fundamentals.exe
+C:\Users\nix13\source\repos\ConsoleApp1\Language_Fundamentals\bin\Debug\Language_Fundamentals.pdb
+C:\Users\nix13\source\repos\ConsoleApp1\Language_Fundamentals\obj\Debug\Language_Fundamentals.csprojAssemblyReference.cache
+C:\Users\nix13\source\repos\ConsoleApp1\Language_Fundamentals\obj\Debug\Language_Fundamentals.csproj.CoreCompileInputs.cache
+C:\Users\nix13\source\repos\ConsoleApp1\Language_Fundamentals\obj\Debug\Language_Fundamentals.exe
+C:\Users\nix13\source\repos\ConsoleApp1\Language_Fundamentals\obj\Debug\Language_Fundamentals.pdb

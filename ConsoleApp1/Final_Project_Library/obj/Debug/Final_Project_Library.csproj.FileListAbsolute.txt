@@ -1,0 +1,10 @@
+C:\Users\nix13\source\repos\ConsoleApp1\Final_Project_Library\bin\Debug\Final_Project_Library.exe.config
+C:\Users\nix13\source\repos\ConsoleApp1\Final_Project_Library\bin\Debug\Final_Project_Library.exe
+C:\Users\nix13\source\repos\ConsoleApp1\Final_Project_Library\bin\Debug\Final_Project_Library.pdb
+C:\Users\nix13\source\repos\ConsoleApp1\Final_Project_Library\bin\Debug\RPG_Library.dll
+C:\Users\nix13\source\repos\ConsoleApp1\Final_Project_Library\bin\Debug\RPG_Library.pdb
+C:\Users\nix13\source\repos\ConsoleApp1\Final_Project_Library\obj\Debug\Final_Project_Library.csprojAssemblyReference.cache
+C:\Users\nix13\source\repos\ConsoleApp1\Final_Project_Library\obj\Debug\Final_Project_Library.csproj.CoreCompileInputs.cache
+C:\Users\nix13\source\repos\ConsoleApp1\Final_Project_Library\obj\Debug\Final_Project_Library.csproj.CopyComplete
+C:\Users\nix13\source\repos\ConsoleApp1\Final_Project_Library\obj\Debug\Final_Project_Library.exe
+C:\Users\nix13\source\repos\ConsoleApp1\Final_Project_Library\obj\Debug\Final_Project_Library.pdb

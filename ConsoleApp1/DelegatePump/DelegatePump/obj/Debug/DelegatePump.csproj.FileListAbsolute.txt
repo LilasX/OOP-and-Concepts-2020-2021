@@ -1,0 +1,9 @@
+c:\users\english\documents\visual studio 2012\Projects\DelegatePump\DelegatePump\bin\Debug\DelegatePump.exe.config
+c:\users\english\documents\visual studio 2012\Projects\DelegatePump\DelegatePump\obj\Debug\DelegatePump.csprojResolveAssemblyReference.cache
+c:\users\english\documents\visual studio 2012\Projects\DelegatePump\DelegatePump\obj\Debug\DelegatePump.GUI.MainForm.resources
+c:\users\english\documents\visual studio 2012\Projects\DelegatePump\DelegatePump\obj\Debug\DelegatePump.Properties.Resources.resources
+c:\users\english\documents\visual studio 2012\Projects\DelegatePump\DelegatePump\obj\Debug\DelegatePump.csproj.GenerateResource.Cache
+c:\users\english\documents\visual studio 2012\Projects\DelegatePump\DelegatePump\bin\Debug\DelegatePump.exe
+c:\users\english\documents\visual studio 2012\Projects\DelegatePump\DelegatePump\bin\Debug\DelegatePump.pdb
+c:\users\english\documents\visual studio 2012\Projects\DelegatePump\DelegatePump\obj\Debug\DelegatePump.exe
+c:\users\english\documents\visual studio 2012\Projects\DelegatePump\DelegatePump\obj\Debug\DelegatePump.pdb

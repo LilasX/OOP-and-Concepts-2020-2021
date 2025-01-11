@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_2020_06_23.Class_2020_06_30.Shape">
+    <Position X="3.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAEAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Class 2020-06-30\Shape.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2020_06_23.Program">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2020_06_23.Class_2020_06_30.Canvas">
+    <Position X="1" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class 2020-06-30\Canvas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="_2020_06_23.Class_2020_06_30.ShapeType">
+    <Position X="1.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAAAAAggAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class 2020-06-30\ShapeType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

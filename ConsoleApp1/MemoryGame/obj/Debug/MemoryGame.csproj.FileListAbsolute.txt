@@ -1,0 +1,19 @@
+C:\Users\nix13\source\repos\ConsoleApp1\MemoryGame\bin\Debug\MemoryGame.exe.config
+C:\Users\nix13\source\repos\ConsoleApp1\MemoryGame\bin\Debug\MemoryGame.exe
+C:\Users\nix13\source\repos\ConsoleApp1\MemoryGame\bin\Debug\MemoryGame.pdb
+C:\Users\nix13\source\repos\ConsoleApp1\MemoryGame\obj\Debug\MemoryGame.csprojAssemblyReference.cache
+C:\Users\nix13\source\repos\ConsoleApp1\MemoryGame\obj\Debug\MemoryGame.Memory_Game.resources
+C:\Users\nix13\source\repos\ConsoleApp1\MemoryGame\obj\Debug\MemoryGame.Properties.Resources.resources
+C:\Users\nix13\source\repos\ConsoleApp1\MemoryGame\obj\Debug\MemoryGame.csproj.GenerateResource.cache
+C:\Users\nix13\source\repos\ConsoleApp1\MemoryGame\obj\Debug\MemoryGame.csproj.CoreCompileInputs.cache
+C:\Users\nix13\source\repos\ConsoleApp1\MemoryGame\obj\Debug\MemoryGame.exe
+C:\Users\nix13\source\repos\ConsoleApp1\MemoryGame\obj\Debug\MemoryGame.pdb
+E:\School Stuff - LaSalle\Programming Codes\ConsoleApp1\MemoryGame\bin\Debug\MemoryGame.exe.config
+E:\School Stuff - LaSalle\Programming Codes\ConsoleApp1\MemoryGame\bin\Debug\MemoryGame.exe
+E:\School Stuff - LaSalle\Programming Codes\ConsoleApp1\MemoryGame\bin\Debug\MemoryGame.pdb
+E:\School Stuff - LaSalle\Programming Codes\ConsoleApp1\MemoryGame\obj\Debug\MemoryGame.Memory_Game.resources
+E:\School Stuff - LaSalle\Programming Codes\ConsoleApp1\MemoryGame\obj\Debug\MemoryGame.Properties.Resources.resources
+E:\School Stuff - LaSalle\Programming Codes\ConsoleApp1\MemoryGame\obj\Debug\MemoryGame.csproj.GenerateResource.cache
+E:\School Stuff - LaSalle\Programming Codes\ConsoleApp1\MemoryGame\obj\Debug\MemoryGame.csproj.CoreCompileInputs.cache
+E:\School Stuff - LaSalle\Programming Codes\ConsoleApp1\MemoryGame\obj\Debug\MemoryGame.exe
+E:\School Stuff - LaSalle\Programming Codes\ConsoleApp1\MemoryGame\obj\Debug\MemoryGame.pdb

@@ -1,0 +1,10 @@
+C:\Users\nix13\source\repos\ConsoleApp1\LabTicTacToe\bin\Debug\LabTicTacToe.exe.config
+C:\Users\nix13\source\repos\ConsoleApp1\LabTicTacToe\bin\Debug\LabTicTacToe.exe
+C:\Users\nix13\source\repos\ConsoleApp1\LabTicTacToe\bin\Debug\LabTicTacToe.pdb
+C:\Users\nix13\source\repos\ConsoleApp1\LabTicTacToe\obj\Debug\LabTicTacToe.csprojAssemblyReference.cache
+C:\Users\nix13\source\repos\ConsoleApp1\LabTicTacToe\obj\Debug\LabTicTacToe.Form1.resources
+C:\Users\nix13\source\repos\ConsoleApp1\LabTicTacToe\obj\Debug\LabTicTacToe.Properties.Resources.resources
+C:\Users\nix13\source\repos\ConsoleApp1\LabTicTacToe\obj\Debug\LabTicTacToe.csproj.GenerateResource.cache
+C:\Users\nix13\source\repos\ConsoleApp1\LabTicTacToe\obj\Debug\LabTicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\nix13\source\repos\ConsoleApp1\LabTicTacToe\obj\Debug\LabTicTacToe.exe
+C:\Users\nix13\source\repos\ConsoleApp1\LabTicTacToe\obj\Debug\LabTicTacToe.pdb
