@@ -1,0 +1,12 @@
+C:\Users\nix13\source\repos\RPG_Library\RPG_Library\bin\Debug\RPG_Library.dll
+C:\Users\nix13\source\repos\RPG_Library\RPG_Library\bin\Debug\RPG_Library.pdb
+C:\Users\nix13\source\repos\RPG_Library\RPG_Library\obj\Debug\RPG_Library.csprojAssemblyReference.cache
+C:\Users\nix13\source\repos\RPG_Library\RPG_Library\obj\Debug\RPG_Library.csproj.CoreCompileInputs.cache
+C:\Users\nix13\source\repos\RPG_Library\RPG_Library\obj\Debug\RPG_Library.dll
+C:\Users\nix13\source\repos\RPG_Library\RPG_Library\obj\Debug\RPG_Library.pdb
+E:\School Stuff - LaSalle\Programming Codes\RPG_Library\RPG_Library\bin\Debug\RPG_Library.dll
+E:\School Stuff - LaSalle\Programming Codes\RPG_Library\RPG_Library\bin\Debug\RPG_Library.pdb
+E:\School Stuff - LaSalle\Programming Codes\RPG_Library\RPG_Library\obj\Debug\RPG_Library.csproj.AssemblyReference.cache
+E:\School Stuff - LaSalle\Programming Codes\RPG_Library\RPG_Library\obj\Debug\RPG_Library.csproj.CoreCompileInputs.cache
+E:\School Stuff - LaSalle\Programming Codes\RPG_Library\RPG_Library\obj\Debug\RPG_Library.dll
+E:\School Stuff - LaSalle\Programming Codes\RPG_Library\RPG_Library\obj\Debug\RPG_Library.pdb

@@ -1,0 +1,30 @@
+Character 
+- imagefiles : string
+- directions : enum
+- energypoints : int = 50
+-wallDestroyers : int = 3
+Move()
+ReceiveDamage(damage : int)
+PassWall(entity) : bool
+IsDead() : bool
+
+Enemies
+- imagefiles : string
+- atkPower : int
+Attack()
+
+Food
+- imagefiles : string
+- recoveryPoints : int
+
+LivingEntity
+
+AbstractEntity
+
+https://www.freepngimg.com/png/59453-euclidean-twitter-vector-bird-graphics-free-photo-png
+https://www.freepngimg.com/png/17507-rock-free-png-image
+https://www.freepngimg.com/png/15209-nest-free-download-png
+https://www.freepngimg.com/png/29538-artistic-fox-picture
+https://www.freepngimg.com/png/19948-worms-png-picture
+https://www.freepngimg.com/png/28682-berries-image
+
